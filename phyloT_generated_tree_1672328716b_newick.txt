@@ -1,1 +1,1 @@
-(((((((Rattus_norvegicus),(Mus_musculus))Murinae,(Oryctolagus_cuniculus))Glires,(Homo_sapiens))Euarchontoglires,((Equus_caballus),((Sus_scrofa),(Bos_taurus))Artiodactyla,(Canis_lupus_familiaris))Laurasiatheria)Boreoeutheria,(Gallus_gallus))Amniota);
+(((((((Rattus_norvegicus),(Mus_musculus))Murinae,(Oryctolagus_cuniculus))Glires,(Homo_sapiens))Euarchontoglires,((Equus_caballus),((Sus_scrofa),(Bos_taurus))Artiodactyla,(Canis_lupus_familiaris))Laurasiatheria)Boreoeutheria,(Gallus_gallus))Amniota)
